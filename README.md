@@ -21,8 +21,8 @@ Using Console.write print the Pascal's triangle.
 End the program.
 ## Program:
 ```
-Developed By: Manoj Kumar S
-Reg No: 212221230056
+Developed By: S VAISHNAV NANDA
+Reg No: 212222240112
 ```
 ```
 using System;
